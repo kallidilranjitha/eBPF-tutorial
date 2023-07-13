@@ -6,10 +6,13 @@
 
    Linux: https://www.virtualbox.org/wiki/Linux_Downloads 
 
-   The installation should be straightforward. You can just stick with the default settings. 
+   The installation should be straightforward. You can stick with the default settings. 
 
-2. Download the VM image.
-3. Import the downloaded VM image.
+2. Download the VM image from the below link.
+
+    https://iith-my.sharepoint.com/:u:/g/personal/cs21resch11003_iith_ac_in/EZxGxoc0YJRGnMktU6Sf-Y4B4y-JSWS8HK-tVqF8aHZeHg?e=jOIKuc
+   
+4. Import the downloaded VM image.
    You can navigate to the installed location and double-click on the .ova file you downloaded. The screen below would be visible. Double-click on the Name and rename the VM if you wish to. The VM is renamed “eBPF-tutorial” for the rest of the guide.
 
    On a Windows host machine, click Finish and wait for the process to complete. On an Ubuntu host, click on Import and wait for the process to complete. 
