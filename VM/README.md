@@ -16,5 +16,18 @@
 
    ![vm1](https://github.com/kallidilranjitha/eBPF-tutorial/assets/77719123/f238bba1-7e4e-4561-907c-ecb2232addb5)
 
+   The imported VM “eBPF-tutorial" will be visible on the left pane as shown.
+
+   ![vm2](https://github.com/kallidilranjitha/eBPF-tutorial/assets/77719123/545e8f97-dfe0-4d54-abab-a39b1da7177f)
+
+   Before starting the VM, ensure the network adaptor is of type Bridged Adaptor.
+
+   ![vm3](https://github.com/kallidilranjitha/eBPF-tutorial/assets/77719123/c655a5a7-9ce3-4d38-8365-e4078e25643f)
+
+   Double-click on "eBPF-tutorial" to start the VM.
+
+ 
+
+
 
 
