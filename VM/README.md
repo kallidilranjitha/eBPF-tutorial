@@ -12,7 +12,9 @@
 3. Import the downloaded VM image.
    You can navigate to the installed location and double-click on the .ova file you downloaded. The screen below would be visible. Double-click on the Name and rename the VM if you wish to. For the rest of the guide, the VM has been renamed to “ebpf-tutorial”.
 
-   On a Windows host machine, click Finish and wait for the process to finish. On an Ubuntu host, click on Import and wait for the process to complete. 
-   ![vm1](https://github.com/kallidilranjitha/eBPF-tutorial/assets/77719123/9ac08772-c425-43fe-b968-a295ddb81628)
+   On a Windows host machine, click Finish and wait for the process to complete. On an Ubuntu host, click on Import and wait for the process to complete. 
+
+   ![vm1](https://github.com/kallidilranjitha/eBPF-tutorial/assets/77719123/f238bba1-7e4e-4561-907c-ecb2232addb5)
+
 
 
