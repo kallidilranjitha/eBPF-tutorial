@@ -29,7 +29,7 @@ Welcome to eBPF-tutorial, an introductory hands-on session
 
    ![vm3](https://github.com/kallidilranjitha/eBPF-tutorial/assets/77719123/c655a5a7-9ce3-4d38-8365-e4078e25643f)
 
-   Double-click on "eBPF-tutorial" to start the VM.
+   Double-click on "eBPF-tutorial" to start the VM. Login using ubuntu/ubuntu as username/password.
 
  
 
