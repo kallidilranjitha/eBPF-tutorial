@@ -17,9 +17,6 @@ Welcome to eBPF-tutorial, an introductory hands-on session
 4. Import the downloaded VM image.
    You can navigate to the installed location and double-click on the .ova file you downloaded. The screen below would be visible. Double-click on the Name and rename the VM if you wish to. The VM is renamed “eBPF-tutorial” for the rest of the guide.
 
-   5. Tutorial documentation link
-      https://docs.google.com/document/d/14lNjNnXOnz94ZEgCNPntl_d0IVLyVVhXpvs3dMl51TY/edit?usp=sharing
-
    On a Windows host machine, click Finish and wait for the process to complete. On an Ubuntu host, click on Import and wait for the process to complete. 
 
    ![vm1](https://github.com/kallidilranjitha/eBPF-tutorial/assets/77719123/f238bba1-7e4e-4561-907c-ecb2232addb5)
@@ -34,7 +31,7 @@ Welcome to eBPF-tutorial, an introductory hands-on session
 
    Double-click on "eBPF-tutorial" to start the VM. Login using ubuntu/ubuntu as username/password.
 
-https://docs.google.com/document/d/14lNjNnXOnz94ZEgCNPntl_d0IVLyVVhXpvs3dMl51TY/edit?usp=sharing
+5. Tutorial documentation: https://docs.google.com/document/d/14lNjNnXOnz94ZEgCNPntl_d0IVLyVVhXpvs3dMl51TY/edit?usp=sharing
  
 
 
