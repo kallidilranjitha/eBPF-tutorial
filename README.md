@@ -32,7 +32,7 @@ Welcome to eBPF-tutorial, an introductory hands-on session
    Double-click on "eBPF-tutorial" to start the VM. Login using ubuntu/ubuntu as username/password.
 
 5. Tutorial documentation: https://docs.google.com/document/d/14lNjNnXOnz94ZEgCNPntl_d0IVLyVVhXpvs3dMl51TY/edit?usp=sharing
-6. Tutorial slides : https://iith-my.sharepoint.com/:p:/g/personal/cs21resch11003_iith_ac_in/EXZNE-0tZ9BPqQTcojFArIMBOc0z4dLZnCMd9S8FG_KiqA?e=w0OfGZ
+
  
 
 
